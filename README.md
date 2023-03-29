@@ -14,28 +14,16 @@
   <div>
   <a href="[https://github.com/MaiconCma](https://github.com/MaiconCma)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiconCma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconCma&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-  
+  <br>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+  <img align="left" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 </div>
-![Snake animation](https://github.com/MaiconCma/MaiconCma/blob/output/github-contribution-grid-snake.svg)
+    <br><br><br>
   
-   ### Hi there 👋
-
-<!--
-**MaiconCma/MaiconCma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo: Java, Php, MySql, Python
+- 📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/maicon-douglas-fernandes-4b0561156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 😄 Pronomes: Ele/Dele
