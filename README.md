@@ -8,12 +8,12 @@
     <br> 
     <a href="https://www.linkedin.com/in/maicon-douglas-fernandes-4b0561156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h3> Carreira <h3/>
-    <p1>Atualmente estou graduando o curso de analise e desenvolvimento de sistemas no IF Baiano - Campus Guanambi, atualmente no 4º semestre<p/>
+    <p1>Atualmente estou graduando o curso de analise e desenvolvimento de sistemas no IF Baiano - Campus Guanambi, matriculado no 4º semestre<p/>
 
    
   <div>
   <a href="[https://github.com/MaiconCma](https://github.com/MaiconCma)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiconCma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconCma&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
