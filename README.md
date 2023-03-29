@@ -4,9 +4,6 @@
 <p1> Me chamo Maicon Douglas, é um prazer tê-lo por aqui!😊<p1/>
   <br>
   
-  <p1>Minha rede social da Linkedin<p1/>
-    <br> 
-    <a href="https://www.linkedin.com/in/maicon-douglas-fernandes-4b0561156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h3> Carreira <h3/>
     <p1>Atualmente estou graduando o curso de analise e desenvolvimento de sistemas no IF Baiano - Campus Guanambi, matriculado no 4º semestre<p/>
 
