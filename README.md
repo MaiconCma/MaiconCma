@@ -35,7 +35,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IF Baiano -
 - **MySQL**
 - **Python**
 
-📊 GitHub Stats
+##📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/MaiconCma">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiconCma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
