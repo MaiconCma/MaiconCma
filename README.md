@@ -44,7 +44,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IF Baiano -
 </div>
 
 ## Contato
-- 🌱 Estou aprendendo: Java, PHP, MySQL, Python
 - 📫 Entre em contato comigo pelo 
   [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/maicon-douglas-4b0561156/)
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/maicon_cma/?next=%2F)
