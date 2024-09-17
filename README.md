@@ -6,9 +6,9 @@
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi, e estou matriculado no 4º semestre. Tenho conhecimento nas linguagens Python e Java, com experiência na construção de pequenos projetos avaliativos durante a faculdade. Buscando sempre mais conhecimento e aperfeiçoamento, estou concluindo cursos adicionais na área.
 
 ## Pretensões
-- Continuar aprimorando minhas habilidades em desenvolvimento web e back-end.
+- Continuar aprimorando minhas habilidades em programação.
 - Contribuir para projetos open-source e colaborar com a comunidade.
-- Buscar oportunidades de estágio e emprego na área de desenvolvimento de software.
+- Buscar oportunidades de estágio e emprego na área.
 
 ## Conhecimentos
 - **Santander 2024 - Fundamentos de IA para Devs (Cursando)**
